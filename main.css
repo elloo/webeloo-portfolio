@@ -1,0 +1,15 @@
+h1 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 300;
+}
+
+p {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 300;
+}
+
+.intro {
+    position: relative;
+    top: 150px;
+    left: 100px;
+}
